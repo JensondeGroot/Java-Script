@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="style.css" type="text/css" rel="stylesheet">
+    </head>
+
+    <body>
+        <h1>Flexbox</h1>
+        <div id="cheatSheet">
+            <span class="container">
+                <div>
+                    <p>Container Properties</p>
+                </div>
+                <div>
+                    <p class="header"><b>//Creates a flexbox</b></p>
+                    <p>display: flex</p>
+                </div>
+                <div>
+
+                </div>
+            </span>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <!--<link rel="shortcut icon" type="image/png" href="./Images/money.png">-->
+        
+        <title>HTML!</title>
+        <meta name="description" content="vragenlijst">
+        <link rel="stylesheet" href="./style.css">
+        <style>
+
+        </style>
+    </head>
+    <body class="body">
+        <header class="header">
+            <div class="header--item">Home</div>
+            <div class="header--item">Chocoladehistorie</div>
+            <div class="header--item">Chocoladeverslaving</div>
+        </header>
+        <div class="main">
+            <div class="main--item image image--left">Image</div>
+            
+            <div class="main--item text">Tekst</div>            
+            <div class="main--item text">Tekst</div>
+            
+            <div class="main--item text">Tekst</div>
+            
+            <div class="main--item image image--right">Image</div>
+        </div>
+        <footer class="footer">
+            <div class="footer--item">Naam</div>
+            <div class="footer--item">Naam</div>
+            <div class="footer--item">Naam</div>
+            <div class="footer--item">Naam</div>
+            <div class="footer--item">Naam</div>
+        </footer>
+    </body>
+    <script src="./script.js"></script>
+</html>

@@ -6,10 +6,18 @@
         <div class="container">
             <div class="container">
                 <div class="container">
-                    <div class="container"></div>
-                </div>
-            </div>
+                    <div class="multiple errors = container"
+         
+                    delete 
+                 
+            const number = 4;
+            typeof(number); //returns "number"
             
+            const valueChecked = true;
+            typeof(valueChecked); //returns "boolean"
+            
+            const a = null;
+            typeof(a); // returns "object"
             
         </div>
         <script>
